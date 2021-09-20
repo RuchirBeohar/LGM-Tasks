@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav{
+    background-color: aqua;
+    width: auto;
+    height: 70px;
+    margin-bottom: 50px;
+}
+
+h1{
+    display: inline-block;
+    margin-left: 200px;
+    margin-top: 20px;
+}  
+
+#get{
+    padding: 5px 5px 5px 10px;
+    background-color: rgb(194, 191, 10);
+    /* display: inline-block; */
+    margin-left: 800px;
+}
+
+#get:hover{
+     padding: 13px 13px 13px 13px;
+}
+
+.userData{
+    margin-left: 230px;
+    display: inline-block;
+}
+
+.img{
+    height: 200px;
+    width: 200px;
+}
+
+.load{
+     margin-top: 100px;
+     margin-left: 800px;
+}
