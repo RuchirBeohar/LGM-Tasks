@@ -1,0 +1,13 @@
+body{
+background-image: url(https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Simple-Blue-White-Background-Image.jpg);
+height: 730px;
+width: 100%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.sec{
+    margin-top: 200px;
+    margin-left: 100px;
+}

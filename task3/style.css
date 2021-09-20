@@ -1,0 +1,135 @@
+body{
+   padding-top: 0px;
+   padding-left: 0px;
+}
+
+.thead-dark{
+     background-color: black;
+     color: white;
+}
+
+.search{
+     display: inline-block;
+     margin-top: 100px;
+     margin-left: 450px;
+}
+
+.linkto{
+     float:right;
+     margin-right: 30px;
+     margin-bottom: 30px;
+}
+
+#on{
+     padding: 10px 10px 10px 10px;
+     background-color: rgb(82, 82, 187);
+     color: white;
+}
+
+.fail{
+     color:red;
+}
+
+#prg{
+     margin-left: 1200px;
+     height: 40px;
+     width: 300px;
+}
+
+#txt{
+     margin-left: 1200px;
+ }
+
+ #logo{
+     display: inline-block;
+     height: 60px;
+     width: 100px;
+ }
+
+ #home{
+      display: inline-block;
+      margin-left: 300px;
+      margin-right: 50px;
+ }
+
+ #profile{
+     display: inline-block;
+     margin-right: 50x;
+ }
+
+ #newadmin{
+      display: inline-block;
+      margin-right: 50px;
+      margin-left: 50px;
+ }
+
+ #students{
+      display: inline-block;
+      margin-right: 50px;
+ }
+
+ #result{
+      display: inline-block;
+      margin-right: 50px;
+ }
+
+ #status{
+      display: inline-block;
+ }
+
+ #logout{
+      display: inline-block;
+      margin-left: 350px;
+      padding:10px 10px 10px;
+      background-color: red;
+      color: white;
+      border-radius: 10px;
+ }
+
+ .personalinfo{
+      margin-top: 100px;
+      margin-left: 600px;
+ }
+
+ .ic{
+    display: inline-block;
+    margin-right: 20px;
+ }
+
+ .addingb{
+      padding: 10px 10px 10px 10px;
+      background-color:rgb(60, 156, 216);
+ }
+
+ .formstyle{
+     padding: 60px 60px 60px 60px;
+      padding-left: 280px;
+      margin-top: 50px;
+      margin-left: 300px;
+      border: 5px solid rgb(77, 75, 75);
+      border-radius: 10px;
+      margin-right: 300px;
+ }
+
+ .formstyle2{
+      margin-left: 90px;
+ }
+
+ .formstyle3{
+      text-decoration-line: underline;
+ }
+
+ .btn{
+      padding: 10px 10px 10px 10px;
+      background-color: green;
+      color: white;
+ }
+
+ body{
+     background-image: url(https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Simple-Blue-White-Background-Image.jpg);
+     height: 730px;
+     width: 100%;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+}

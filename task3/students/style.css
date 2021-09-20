@@ -1,0 +1,74 @@
+body{
+    background-image: url(https://cdn.wallpapersafari.com/29/4/SGDfYn.jpg);
+        height: 730px;
+        width: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+
+.marksheet{
+    margin-left: 300px;
+    margin-right: 220px;
+    border: 5px solid rgb(41, 40, 40);
+    border-radius: 10px;
+    border-color: rgb(34, 33, 33);
+}
+#year{
+    display: inline-block;
+}
+
+#log{
+
+    display: inline-block;
+    height: 60px;
+    width: 100px;
+}    
+
+#IFSC{
+    display: inline-block;
+}
+
+#extras{
+    margin-left: 270px;
+}
+
+#head{
+    margin-left: 300px;
+    margin-bottom: 30px;
+}
+
+#name{
+    display: inline-block;
+    margin-left: 270px;
+    margin-right: 30px;
+}
+
+#roll{
+    display: inline-block;
+}
+
+#cl{
+    margin-left: 430px;
+}
+
+#extra2{
+    margin-left: 270px;
+}
+
+#tt{
+    display: inline-block;
+    margin-left: 270px;
+}
+
+#st{
+    display: inline-block;
+    margin-left: 50px;
+}
+
+#btn{
+    padding: 10px 10px 10px 10px;
+    margin-left: 1020px;
+    background-color: seagreen;
+    color: white;
+}
